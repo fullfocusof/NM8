@@ -1,0 +1,10 @@
+E:\Projects\NumMethods\LR8\LR8\bin\Debug\LR8.exe.config
+E:\Projects\NumMethods\LR8\LR8\bin\Debug\LR8.exe
+E:\Projects\NumMethods\LR8\LR8\bin\Debug\LR8.pdb
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.csproj.AssemblyReference.cache
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.IntegralForm.resources
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.Properties.Resources.resources
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.csproj.GenerateResource.cache
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.csproj.CoreCompileInputs.cache
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.exe
+E:\Projects\NumMethods\LR8\LR8\obj\Debug\LR8.pdb
